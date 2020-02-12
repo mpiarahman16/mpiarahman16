@@ -1,0 +1,49 @@
+body {
+    background-color: #efeee7;
+    font-family:'Sriracha', cursive;
+    color: #333333;
+    margin: 0;
+  padding: 0;
+}
+h1{
+  color: #eee;
+  size:28px;
+  padding:10px;
+  margin:15px; 
+  background: black;
+  text-align: center;
+}
+h2{
+size:24px;
+text-align: center;
+}
+a{color: #d21034;}
+.container{
+background-color: blanchedalmond;
+width:1024px;
+margin:0 auto;
+}
+#main-bio{
+  float:left;
+  width:70%;
+  margin:10px
+}
+#contact-info{
+  float:left;
+  margin:10px;
+  widows: 35%;
+  line-height:1.5em;
+}
+#bio-image{
+  float:left;
+  width:200px;
+}
+.flex-row{
+  display:flex;
+  flex-direction: row;
+}
+.flex-column{
+  display:flex;
+  flex-direction: column;
+}
+
